@@ -1,5 +1,7 @@
 {
     "name": "mi-sitio-web",
-    "version": "1.0.0"
-    
-}
+    "version": "1.0.0",
+    "scripts": {
+      "build": "echo 'No build step needed'"
+    }
+  }
